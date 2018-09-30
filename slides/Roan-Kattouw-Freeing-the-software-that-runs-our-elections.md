@@ -1,0 +1,1 @@
+Slides: [view on Github](https://github.com/catrope/sf-open-source-voting-talk/blob/strangeloop-2018/slides.pdf), [download PDF](https://github.com/catrope/sf-open-source-voting-talk/raw/strangeloop-2018/slides.pdf)
